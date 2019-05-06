@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: 'On Point BIM and Drafting, LLC'
+title: 'On Point BIM and Drafting, LLC mn n cmnds cm'
 image: /img/onpoint-logo.jpg
 heading: .
 subheading: .
