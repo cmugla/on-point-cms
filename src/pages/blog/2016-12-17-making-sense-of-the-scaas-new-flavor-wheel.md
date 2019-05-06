@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: What up
+title: test
 date: 2016-12-17T15:04:10.000Z
 description: This is a thing
 featuredpost: false
