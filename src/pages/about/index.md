@@ -1,19 +1,13 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: About us
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Brenda Glavin
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Brenda is the founder and owner of OnPoint BIM and Drafting, LLC, and has over 15 years of technical drafting, modeling and management experience within various disciplines of the construction industry. Her experience includes electrical, structural, architectural, mechanical and plumbing modeling and drafting. Her formal education includes art, technical drafting, leadership, and software-specific training. Over the years, Brenda has built a formidable knowledge base around the craft of producing high-quality technical drawings, and the art of leading and inspiring the people around her to be successful.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Brenda has built a career around inspiration and high-quality work. Ask any of her peers who have worked closely with her, and you’ll know how much of herself she puts into her work. To Brenda, construction models and drawings truly are an art form, and she takes pride in every plan, rendering, and detail she touches. This attitude is infectious, and she has inspired many of those drafters and modelers in her charge to pursue the same level of passion in their work.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### James Glavin, PE, PMP, LEED AP BD+C
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+James is OnPoint’s principal engineer, providing technical expertise and guidance in the execution of work. He is a licensed professional electrical engineer in Colorado and Massachusetts with experience in design, project management, standards development, technical writing and design review. He has worked on residential, commercial, industrial, government, healthcare, transportation, and education projects.
