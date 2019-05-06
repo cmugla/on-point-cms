@@ -73,8 +73,8 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              {navItems.map(navItem => 
-                <Link className="navbar-item" to={navItem.url}>
+              {navItems.map((navItem, index) => 
+                <Link key={`header-nav-item--${index}`} className="navbar-item" to={navItem.url}>
                   {navItem.label}
                 </Link>
               )}
