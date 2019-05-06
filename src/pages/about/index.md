@@ -1,5 +1,5 @@
 ---
-templateKey: about-page
+templateKey: index-page
 title: About us
 ---
 ### Brenda Glavin

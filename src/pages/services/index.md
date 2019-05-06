@@ -1,5 +1,5 @@
 ---
-templateKey: services-page
+templateKey: index-page
 title: Services
 ---
 ### Brenda Glavin
