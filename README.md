@@ -1,6 +1,22 @@
+# Welcome to the website
+
+## How to edit:
+Go to `/admin` and login
+Click on page or blog of choice and edit content from the form within
+Add new blogs by clicking `Blog` and then `New Blog`
+
+Notes:
+- pages
+	- *VERY IMPORTANT* never delete pages, if you need to remove a page, the webmaster will need to make a code change
+
+
+
+
+
+
 # Gatsby + Netlify CMS Starter
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b654c94e-08a6-4b79-b443-7837581b1d8d/deploy-status)](https://app.netlify.com/sites/gatsby-starter-netlify-cms-ci/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e42e6ef4-70d9-424c-9361-33274298efd8/deploy-status)](https://app.netlify.com/sites/boring-rosalind-b5ab72/deploys)
 
 **Note:** This starter uses [Gatsby v2](https://www.gatsbyjs.org/blog/2018-09-17-gatsby-v2/).
 
@@ -11,7 +27,7 @@ It follows the [JAMstack architecture](https://jamstack.org) by using Git as a s
 ## Features ##
 
 - A simple landing page with blog functionality built with Netlify CMS
-- Editabe Pages: Landing, About, Product, Blog-Collection and Contact page with Netlify Form support
+- Editabe Pages: Landing, About, Services, Blog-Collection and Contact page with Netlify Form support
 - Create Blog posts from Netlify CMS
 - Tags: Separate page for posts under each tag
 - Basic directory organization

@@ -1,6 +1,21 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
+export const navItems = [
+  {
+    label: 'About',
+    url: '/about'
+  },
+  {
+    label: 'Services',
+    url: '/services'
+  },
+  {
+    label: 'Contact',
+    url: '/contact'
+  }
+]
+
 const Navbar = class extends React.Component {
   constructor(props) {
     super(props)
@@ -58,18 +73,11 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              <Link className="navbar-item" to="/about">
-                About
-              </Link>
-              <Link className="navbar-item" to="/blog">
-                Blog
-              </Link>
-              <Link className="navbar-item" to="/contact">
-                Contact
-              </Link>
-              <Link className="navbar-item" to="/contact/examples">
-                Form Examples
-              </Link>
+              {navItems.map(navItem => 
+                <Link className="navbar-item" to={navItem.url}>
+                  {navItem.label}
+                </Link>
+              )}
             </div>
           </div>
         </div>
