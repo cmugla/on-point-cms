@@ -9,7 +9,9 @@ mainpitch:
   description: .
 description: .
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/apple-touch-icon.png
+      text: Bablablabl
   heading: .
   description: .
 main:
