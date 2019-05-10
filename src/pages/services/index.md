@@ -1,6 +1,8 @@
 ---
 templateKey: content-page
 ---
+# Services
+
 ### Design Modeling
 
 Are you working on a Building Information Modeling (BIM) project and need a hand meeting a deadline? OnPoint can help. If it can be built, we can model it in Autodesk Revit® software, and we are extremely flexible in how we integrate our services into your workflow. Depending on your preferences, we can collaborate remotely using tools like Bluebeam Studio, or we can come to you and work directly with your design team using our own tools.
