@@ -2,9 +2,9 @@ var proxy = require('http-proxy-middleware')
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'On Point BIM & Drafting, LLC',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'If you’re looking for high-quality modeling and drafting work, completed cost effectively and on time, look no further than OnPoint BIM and Drafting, LLC. If you’re looking for a helping hand in transforming your production team into a high-performing BIM modeling staff, OnPoint is the provider of choice. Our hands-on approach will enable your staff to perform at their best.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
