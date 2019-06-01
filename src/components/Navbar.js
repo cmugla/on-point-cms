@@ -3,10 +3,6 @@ import { Link } from 'gatsby'
 
 export const navItems = [
   {
-    label: 'Home',
-    url: '/'
-  },
-  {
     label: 'About',
     url: '/about'
   },

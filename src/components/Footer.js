@@ -6,7 +6,7 @@ const Footer = class extends React.Component {
   render() {
     return (
       <footer className="footer has-text-white-ter">
-        <div className="content has-text-centered has-text-white-ter">
+        <div className="content has-text-white-ter">
           <section className="menu">
             <ul className="menu-list">
               {navItems.map((navItem, index) => 
@@ -17,6 +17,7 @@ const Footer = class extends React.Component {
                 </li>
               )}
             </ul>
+            <p className="copyright">Copyright 2019 On Point BIM, LLC</p>
           </section>
         </div>
       </footer>
