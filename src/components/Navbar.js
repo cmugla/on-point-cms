@@ -3,6 +3,10 @@ import { Link } from 'gatsby'
 
 export const navItems = [
   {
+    label: 'Home',
+    url: '/'
+  },
+  {
     label: 'About',
     url: '/about'
   },
@@ -13,7 +17,7 @@ export const navItems = [
   {
     label: 'Contact',
     url: '/contact'
-  }
+  },
 ]
 
 const Navbar = class extends React.Component {
