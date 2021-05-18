@@ -10,6 +10,10 @@ Are you working on a Building Information Modeling (BIM) project and need a hand
 
 Are you having trouble meeting an owner’s BIM requirements and unsure about what you need? We know how to read, interpret, and implement owner’s model compliance requirements and can help bring your deliverables up to speed. OnPoint can directly edit and update your content to comply, saving you the time and hassle of unnecessary resubmittals.
 
+### BIM Process Automation
+
+OnPoint can help you automate repetitive or time-consuming tasks in Revit, by leveraging Dynamo to create customized routines.
+
 ### Training
 
 If you’re looking to understand and implement BIM within your own team, OnPoint is here for you. We can provide customized onsite training, ranging from basic introduction to advanced techniques. We can help develop your staff into capable BIM Managers.
