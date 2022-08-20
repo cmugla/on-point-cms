@@ -17,7 +17,7 @@ export default props => (
               onSubmit={props.handleSubmit}
             >
               {/* Honey pot */}
-              <p class="hidden">
+              <p style={{ display: 'none' }}>
                 <label>
                   Don’t fill this out if you’re human: <input name="bot-field" />
                 </label>
