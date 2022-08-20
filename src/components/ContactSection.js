@@ -12,8 +12,16 @@ export default props => (
               method="post"
               action="/contact/thanks/"
               data-netlify="true"
+              netlify-honeypot="bot-field"
+              data-netlify-recaptcha="true"
               onSubmit={props.handleSubmit}
             >
+              {/* Honey pot */}
+              <p class="hidden">
+                <label>
+                  Don’t fill this out if you’re human: <input name="bot-field" />
+                </label>
+              </p>
               {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
               <input type="hidden" name="form-name" value="contact" />
               <div hidden>
@@ -66,6 +74,7 @@ export default props => (
                   />
                 </div>
               </div>
+              <div data-netlify-recaptcha="true"></div>
               <div className="field">
                 <button className="btn is-link" type="submit">
                   Send
