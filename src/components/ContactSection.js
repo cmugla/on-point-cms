@@ -13,7 +13,7 @@ export default props => (
               action="/contact/thanks/"
               data-netlify="true"
               netlify-honeypot="bot-field"
-              data-netlify-recaptcha="true"
+              // data-netlify-recaptcha="true"
               onSubmit={props.handleSubmit}
             >
               {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
@@ -71,7 +71,7 @@ export default props => (
                 </div>
               </div>
               {/* recaptcha */}
-              <div className="field"><div data-netlify-recaptcha="true"></div></div>
+              {/* <div className="field"><div data-netlify-recaptcha="true"></div></div> */}
               <div className="field">
                 <button className="btn is-link" type="submit">
                   Send
